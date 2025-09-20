@@ -4,8 +4,8 @@
 public class SergioSFilho {
  String titulo = "Desenvolvedor Back-end"; 
  String nome = "Sérgio S Filho";
- byte idade = 27;
- String[] linguagens = {"Java","Python","C++","COBOL"}; 
+ byte idade = 29;
+ String[] linguagens = {"Java","Python","C++","COBOL","C#"}; 
  String[] dataBases = {"MongoDB","PostgreSQL","MySql"};
  String[] so = {"Linux","Windows"};
  String[] frameworks = {"Spring","Spring Boot","Hibernate"};
