@@ -8,8 +8,8 @@ public class SergioSFilho {
  String[] linguagens = {"Java","Python","C++","COBOL","C#"}; 
  String[] dataBases = {"MongoDB","PostgreSQL","MySql"};
  String[] so = {"Linux","Windows"};
- String[] frameworks = {"Spring","Spring Boot","Hibernate"};
- String api = "REST"; 
+ String[] frameworks = {"Spring","Spring Boot","PySpark"}
+ String[] awsServices = {"EC2", "S3" , "RDS" , "DynamoDB", "AWS Glue", "Kinesis" , "Athena", "CloudFront"}
 }
 ```
 
